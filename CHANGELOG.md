@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-search/compare/v1.0.4...v1.0.5) (2021-06-30)
+
+
+### Bug Fixes
+
+* automated and manual workflows ([2c71ffa](https://github.com/CoCreate-app/CoCreate-search/commit/2c71ffa22b8f7f735f6c2bb41c34450f539c5ef0))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-search/compare/v1.0.3...v1.0.4) (2021-06-25)
 
 
