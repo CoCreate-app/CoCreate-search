@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-search/compare/v1.0.5...v1.0.6) (2021-06-30)
+
+
+### Bug Fixes
+
+* Update readme.md ([6676704](https://github.com/CoCreate-app/CoCreate-search/commit/6676704702d9478161916b124ef4d4e8ce108e0f))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-search/compare/v1.0.4...v1.0.5) (2021-06-30)
 
 
