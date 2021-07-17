@@ -1,3 +1,11 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-search/compare/v1.0.10...v1.0.11) (2021-07-17)
+
+
+### Bug Fixes
+
+* init and update demos scripts ([fc7688b](https://github.com/CoCreate-app/CoCreate-search/commit/fc7688b4240a66ecbac8e9e6838da1c4e44e7e2b))
+* workflows ([c780de6](https://github.com/CoCreate-app/CoCreate-search/commit/c780de67a2cfa22ca9a66725e07f0a1de418f1f5))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-search/compare/v1.0.9...v1.0.10) (2021-07-14)
 
 
