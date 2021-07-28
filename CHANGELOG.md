@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.0...v1.1.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([ba6ea33](https://github.com/CoCreate-app/CoCreate-search/commit/ba6ea333a2c05b79338a71168fafa957d0792b82))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.0.11...v1.1.0) (2021-07-28)
 
 
