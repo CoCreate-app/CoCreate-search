@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.1...v1.1.2) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([1f6786d](https://github.com/CoCreate-app/CoCreate-search/commit/1f6786d3f6360fd158436ed63a5d81c8925655b0))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.0...v1.1.1) (2021-07-28)
 
 
