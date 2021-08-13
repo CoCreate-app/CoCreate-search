@@ -7,7 +7,7 @@ const CoCreateSearch = {
 			return;
 		}
 
-		let search_elements = mainContainer.querySelectorAll('.search-options')
+		let search_elements = mainContainer.querySelectorAll('[search-selector]')
 		const self = this;
 		search_elements.forEach(element => {
 			self.searchEvent(element)
@@ -22,14 +22,14 @@ const CoCreateSearch = {
 	},
 	
 	runSearchOfElement: function(searchElement, value) {
-		const search_id = searchElement.getAttribute('data-search_id')
-		const item_selector = searchElement.getAttribute('data-item_selector')
+		const search_id = searchElement.getAttribute('search_id')
+		const item_selector = searchElement.getAttribute('search-selector')
 		
 		if (!search_id || !item_selector) {
 			return;
 		}
 		
-		const items = document.querySelectorAll(`[data-search_id='${search_id}'] ${item_selector}`)
+		const items = document.querySelectorAll(`[search_id='${search_id}'] ${item_selector}`)
 
 		items.forEach((item) => {
 			const textContent = item.innerText
