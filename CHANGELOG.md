@@ -1,3 +1,10 @@
+## [1.1.14](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.13...v1.1.14) (2021-09-09)
+
+
+### Bug Fixes
+
+* update dependency @cocreate/docs ([c7a14ec](https://github.com/CoCreate-app/CoCreate-search/commit/c7a14ec784864594f9440f13bc60310552ece3b6))
+
 ## [1.1.13](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.12...v1.1.13) (2021-09-09)
 
 
