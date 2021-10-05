@@ -1,3 +1,11 @@
+## [1.1.23](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.22...v1.1.23) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependencies ([f79d60e](https://github.com/CoCreate-app/CoCreate-search/commit/f79d60e3e4478e74c22488ec0b4f4cdcebf37d2f))
+* website_id in CoCreate.config ([ab7f4c5](https://github.com/CoCreate-app/CoCreate-search/commit/ab7f4c5f47a005b265d7cb1e2383ec35e1759480))
+
 ## [1.1.22](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.21...v1.1.22) (2021-10-04)
 
 
