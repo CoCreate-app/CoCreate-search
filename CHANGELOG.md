@@ -1,3 +1,10 @@
+## [1.1.30](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.29...v1.1.30) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([b3a40e2](https://github.com/CoCreate-app/CoCreate-search/commit/b3a40e2df83b8dc70c5975ccb9f712f6308cdbb6))
+
 ## [1.1.29](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.28...v1.1.29) (2021-10-15)
 
 
