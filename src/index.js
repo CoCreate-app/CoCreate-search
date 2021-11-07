@@ -22,25 +22,25 @@ const CoCreateSearch = {
 	},
 	
 	runSearchOfElement: function(searchElement, value) {
-		const search_id = searchElement.getAttribute('search_id')
-		const item_selector = searchElement.getAttribute('search-selector')
+		const search_id = searchElement.getAttribute('search_id');
+		const item_selector = searchElement.getAttribute('search-selector');
 		
 		if (!search_id || !item_selector) {
 			return;
 		}
 		
-		const items = document.querySelectorAll(`[search_id='${search_id}'] ${item_selector}`)
+		const items = document.querySelectorAll(`[search_id='${search_id}'] ${item_selector}`);
 
 		items.forEach((item) => {
-			const textContent = item.innerText
+			const textContent = item.innerText;
 			if (textContent.includes(value)) {
-				item.classList.remove('hidden')
+				item.classList.remove('hidden');
 			} else {
 				item.classList.add('hidden');
 			}
-		})
+		});
 	}
-}
+};
 
 CoCreateSearch.init();
 
