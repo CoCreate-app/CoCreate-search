@@ -1,3 +1,10 @@
+## [1.1.37](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.36...v1.1.37) (2021-11-07)
+
+
+### Bug Fixes
+
+* add init() directly above export default to fix bug in firefox ([1ec84de](https://github.com/CoCreate-app/CoCreate-search/commit/1ec84deb2bb6433b090bdc67c412d3ac1348ea0d))
+
 ## [1.1.36](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.35...v1.1.36) (2021-11-06)
 
 
