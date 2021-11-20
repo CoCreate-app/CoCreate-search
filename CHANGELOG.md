@@ -1,3 +1,10 @@
+## [1.1.44](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.43...v1.1.44) (2021-11-20)
+
+
+### Bug Fixes
+
+* updated script tags and link tags ([bb1fe08](https://github.com/CoCreate-app/CoCreate-search/commit/bb1fe08ad4554edbfd2c36e674767a1e144c83f7))
+
 ## [1.1.43](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.42...v1.1.43) (2021-11-20)
 
 
