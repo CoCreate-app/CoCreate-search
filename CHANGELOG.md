@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* add nav and sidenav to docs ([934e999](https://github.com/CoCreate-app/CoCreate-search/commit/934e9992da1a9768e7de482cafcf6bf87ef2075d))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
