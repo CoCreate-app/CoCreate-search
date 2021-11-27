@@ -1,3 +1,10 @@
+## [1.1.48](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.47...v1.1.48) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([741773c](https://github.com/CoCreate-app/CoCreate-search/commit/741773ca8c231cd06088c5fbbc47b88b21280e96))
+
 ## [1.1.47](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.46...v1.1.47) (2021-11-26)
 
 
