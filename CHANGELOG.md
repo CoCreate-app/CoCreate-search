@@ -1,3 +1,10 @@
+## [1.1.55](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.54...v1.1.55) (2022-01-16)
+
+
+### Bug Fixes
+
+* update class overflow:overlay to overflow:auto ([c9362c6](https://github.com/CoCreate-app/CoCreate-search/commit/c9362c644868ef71fab06d75163f9c318b355164))
+
 ## [1.1.54](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.53...v1.1.54) (2022-01-01)
 
 
