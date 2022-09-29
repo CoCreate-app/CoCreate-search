@@ -1,3 +1,10 @@
+## [1.1.68](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.67...v1.1.68) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([75eb82e](https://github.com/CoCreate-app/CoCreate-search/commit/75eb82eb33660e3bbc5fd6abcd14b1a1d0af2f48))
+
 ## [1.1.67](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.66...v1.1.67) (2022-09-01)
 
 
