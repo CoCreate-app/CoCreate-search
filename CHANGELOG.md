@@ -1,3 +1,10 @@
+## [1.1.69](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.68...v1.1.69) (2022-09-30)
+
+
+### Bug Fixes
+
+* bump dependencies ([9ebe10a](https://github.com/CoCreate-app/CoCreate-search/commit/9ebe10a17597700fc7d5782c8693f4b2fae961b4))
+
 ## [1.1.68](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.67...v1.1.68) (2022-09-29)
 
 
