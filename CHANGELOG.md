@@ -1,3 +1,10 @@
+## [1.1.75](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.74...v1.1.75) (2022-10-02)
+
+
+### Bug Fixes
+
+* minor bug fixes ([b1011b1](https://github.com/CoCreate-app/CoCreate-search/commit/b1011b1da899c2ae491a41c7682d491c246ae5b7))
+
 ## [1.1.74](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.73...v1.1.74) (2022-10-02)
 
 
