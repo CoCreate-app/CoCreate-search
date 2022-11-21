@@ -1,3 +1,10 @@
+## [1.1.78](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.77...v1.1.78) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([a309205](https://github.com/CoCreate-app/CoCreate-search/commit/a3092055f037d873af8db6764ecbf468ab0849eb))
+
 ## [1.1.77](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.76...v1.1.77) (2022-11-21)
 
 
