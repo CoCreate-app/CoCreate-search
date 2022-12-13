@@ -1,3 +1,10 @@
+## [1.1.98](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.97...v1.1.98) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([e06a94d](https://github.com/CoCreate-app/CoCreate-search/commit/e06a94dbd2b015e4c2754db72445af66c959607c))
+
 ## [1.1.97](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.96...v1.1.97) (2022-12-13)
 
 
