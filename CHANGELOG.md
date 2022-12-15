@@ -1,3 +1,10 @@
+## [1.1.99](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.98...v1.1.99) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([a320b86](https://github.com/CoCreate-app/CoCreate-search/commit/a320b8648840974b00fe29910cf1cac848a9f68c))
+
 ## [1.1.98](https://github.com/CoCreate-app/CoCreate-search/compare/v1.1.97...v1.1.98) (2022-12-13)
 
 
