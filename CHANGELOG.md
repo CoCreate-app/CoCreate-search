@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-search/compare/v1.2.3...v1.2.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([f7677a6](https://github.com/CoCreate-app/CoCreate-search/commit/f7677a67fcac6e1fa19a26872996a7f023db320b))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-search/compare/v1.2.2...v1.2.3) (2023-03-30)
 
 
