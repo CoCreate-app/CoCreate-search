@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.2.6...v1.3.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([851b6bd](https://github.com/CoCreate-app/CoCreate-search/commit/851b6bd733d81ee4dd84107a7c0f2b5d4fc71cea))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-search/compare/v1.2.5...v1.2.6) (2023-04-11)
 
 
