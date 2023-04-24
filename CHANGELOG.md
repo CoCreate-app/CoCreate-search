@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.2...v1.3.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([2ec05ed](https://github.com/CoCreate-app/CoCreate-search/commit/2ec05edafcd48813ff124b4af4d6daf8252a9c03))
+* workflow node version updated  16 ([fd97930](https://github.com/CoCreate-app/CoCreate-search/commit/fd979305a420fbe102d00cdbd6c05d6d20bb60f4))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.1...v1.3.2) (2023-04-24)
 
 
