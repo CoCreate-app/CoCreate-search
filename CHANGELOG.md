@@ -1,3 +1,10 @@
+## [1.3.8](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.7...v1.3.8) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([025b5f0](https://github.com/CoCreate-app/CoCreate-search/commit/025b5f03e0533dbc644985ed3897ecf86a6f7375))
+
 ## [1.3.7](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.6...v1.3.7) (2023-05-06)
 
 
