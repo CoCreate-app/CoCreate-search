@@ -1,3 +1,10 @@
+## [1.3.9](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.8...v1.3.9) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([9d51d2d](https://github.com/CoCreate-app/CoCreate-search/commit/9d51d2ddbfd4a70542b9bb9ffddcfda935f7b9f8))
+
 ## [1.3.8](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.7...v1.3.8) (2023-05-10)
 
 
