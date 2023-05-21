@@ -1,3 +1,10 @@
+## [1.3.10](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.9...v1.3.10) (2023-05-21)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([cfd20da](https://github.com/CoCreate-app/CoCreate-search/commit/cfd20da452a321019beb4633b4d503aae63e66a9))
+
 ## [1.3.9](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.8...v1.3.9) (2023-05-19)
 
 
