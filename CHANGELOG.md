@@ -1,3 +1,10 @@
+## [1.3.11](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.10...v1.3.11) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([0d201c0](https://github.com/CoCreate-app/CoCreate-search/commit/0d201c0b6c8373392d8fceee713f68fb057b7341))
+
 ## [1.3.10](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.9...v1.3.10) (2023-05-21)
 
 
