@@ -1,76 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link
+            rel="icon"
+            href="https://cdn.cocreate.app/favicon.ico"
+            type="image/ico"
+            sizes="16x16" />
+        <title>Select | CoCreate</title>
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="https://cdn.cocreate.app/favicon.ico" type="image/ico" sizes="16x16">
-    <title>Select | CoCreate</title>
-  
-    <link rel="stylesheet" href="https://cdn.cocreate.app/latest/CoCreate.min.css" type="text/css" />       
-  
-    <link rel="manifest" href="/manifest.webmanifest">
-  </head>
-  <body>
+        <link
+            rel="stylesheet"
+            href="https://cdn.cocreate.app/latest/CoCreate.min.css"
+            type="text/css" />
 
-  <form class="margin:20px" collection="module_activities">
-     
-  ------------ Single Options ------------
-      <cocreate-select sortable class="floating-label" 
-        collection="test" 
-        document_id="5e8ff00e8c3af32574df80cb" 
-        name="selectField4" 
-        placeholder="Single Options">
-       
-        <input placeholder="Search" search_id="search_01" search-selector=".option">
-       
-        <ul class="options  overflow:auto" search_id="search_01">
-  				<li class="option"  value="value 1">
-  				  <h3 >vale 1</h3>
-  				  <h3 >value11</h3>
-  				</li>
-  				<li class="option"  value="value 2">
-  				  <h3 >vale 2</h3>
-  				</li>
-  				<li class="option"  value="value 3">
-  				  <h3 >sss</h3>
-  				</li>
-  				<li class="option"  value="value 3">
-  				  <h3 >vale 3</h3>
-  				</li>
-        </ul>
-        
-      </cocreate-select>
-  
-  ------------ Multiple Options ------------
-      <cocreate-select class="floating-label " sortable multiple
-        realtime="false" 
-        collection="test" 
-        document_id="5e9531b3a762440eed55c2ed"  
-        name="selectField2"
-        placeholder="Multiple Options">
-        
-        <input class="option-search" placeholder="Search">
-        
-        <ul class="options overflow:auto">
-  				<li class="option" value="value 1">
-  				  <h3 >value 1</h3>
-  				</li>
-  				<li class="option" value="value 2">
-  				  <h3 >value 2</h3>
-  				</li>
-  				<li class="option" value="value 3">
-  				  <h3 >value 3</h3>
-  				</li>
-        </ul>
-        
-      </cocreate-select>
-  
-    </form>
-	    
-    <!--<script src="../dist/CoCreate-search.js"></script>-->
-    <script src="https://cdn.cocreate.app/latest/CoCreate.min.js"></script>
-  
-  </body>
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
+    <body>
+        <form class="margin:20px" collection="module_activities">
+            ------------ Single Options ------------
+            <cocreate-select
+                sortable
+                class="floating-label"
+                collection="test"
+                document_id="5e8ff00e8c3af32574df80cb"
+                name="selectField4"
+                placeholder="Single Options">
+                <input
+                    placeholder="Search"
+                    search_id="search_01"
+                    search-selector=".option" />
+
+                <ul class="options overflow:auto" search_id="search_01">
+                    <li class="option" value="value 1">
+                        <h3>vale 1</h3>
+                        <h3>value11</h3>
+                    </li>
+                    <li class="option" value="value 2">
+                        <h3>vale 2</h3>
+                    </li>
+                    <li class="option" value="value 3">
+                        <h3>sss</h3>
+                    </li>
+                    <li class="option" value="value 3">
+                        <h3>vale 3</h3>
+                    </li>
+                </ul>
+            </cocreate-select>
+
+            ------------ Multiple Options ------------
+            <cocreate-select
+                class="floating-label"
+                sortable
+                multiple
+                realtime="false"
+                collection="test"
+                document_id="5e9531b3a762440eed55c2ed"
+                name="selectField2"
+                placeholder="Multiple Options">
+                <input class="option-search" placeholder="Search" />
+
+                <ul class="options overflow:auto">
+                    <li class="option" value="value 1">
+                        <h3>value 1</h3>
+                    </li>
+                    <li class="option" value="value 2">
+                        <h3>value 2</h3>
+                    </li>
+                    <li class="option" value="value 3">
+                        <h3>value 3</h3>
+                    </li>
+                </ul>
+            </cocreate-select>
+        </form>
+
+        <!--<script src="../dist/CoCreate-search.js"></script>-->
+        <script src="https://cdn.cocreate.app/latest/CoCreate.min.js"></script>
+    </body>
 </html>
