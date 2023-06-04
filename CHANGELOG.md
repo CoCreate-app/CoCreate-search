@@ -1,3 +1,11 @@
+## [1.3.13](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.12...v1.3.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([b08342c](https://github.com/CoCreate-app/CoCreate-search/commit/b08342c07a1942fde54b0c1f600a5e6004d2551f))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([bd397ea](https://github.com/CoCreate-app/CoCreate-search/commit/bd397ea50400728dbd5f1cfd6ae7e6cafd633d14))
+
 ## [1.3.12](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.11...v1.3.12) (2023-06-04)
 
 
