@@ -1,3 +1,10 @@
+## [1.3.19](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.18...v1.3.19) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([679f832](https://github.com/CoCreate-app/CoCreate-search/commit/679f83205b6996fdb2ac8df64380d5bc42482a3d))
+
 ## [1.3.18](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.17...v1.3.18) (2023-06-11)
 
 
