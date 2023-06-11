@@ -1,3 +1,10 @@
+## [1.3.23](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.22...v1.3.23) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([b7ad814](https://github.com/CoCreate-app/CoCreate-search/commit/b7ad814cf824caad0dc238e0a302d2fa4e06218c))
+
 ## [1.3.22](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.21...v1.3.22) (2023-06-11)
 
 
