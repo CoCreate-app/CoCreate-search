@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.4.0...v1.5.0) (2023-08-17)
+
+
+### Features
+
+* bump cocreate dependencies for the latest updates and features ([e4151f4](https://github.com/CoCreate-app/CoCreate-search/commit/e4151f4bbc351a44264eada4881d9599bfad7196))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.3.27...v1.4.0) (2023-08-16)
 
 
