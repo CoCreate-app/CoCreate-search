@@ -1,3 +1,11 @@
+## [1.6.2](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.1...v1.6.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([f1603ea](https://github.com/CoCreate-app/CoCreate-search/commit/f1603ea180f5ba13cfda207268c997d0a5c91973))
+* Update CoCreate depndencies to latest versions ([8e9a6bf](https://github.com/CoCreate-app/CoCreate-search/commit/8e9a6bfd4bac047c24b41eb5bd52f8d38bcf10e5))
+
 ## [1.6.1](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.0...v1.6.1) (2023-08-21)
 
 
