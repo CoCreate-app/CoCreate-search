@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.2...v1.6.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([eddb1e5](https://github.com/CoCreate-app/CoCreate-search/commit/eddb1e5a3047ee58697de62f624d5444f1716720))
+
 ## [1.6.2](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.1...v1.6.2) (2023-09-18)
 
 
