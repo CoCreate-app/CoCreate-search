@@ -1,3 +1,11 @@
+## [1.6.4](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.3...v1.6.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([01656c5](https://github.com/CoCreate-app/CoCreate-search/commit/01656c5fab6686377721e0ca9093266e08b16366))
+* update host ([a237be2](https://github.com/CoCreate-app/CoCreate-search/commit/a237be2aa5cb13c23fdb722b83a14b2394c639e7))
+
 ## [1.6.3](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.2...v1.6.3) (2023-11-03)
 
 
