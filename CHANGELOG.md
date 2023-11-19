@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.5...v1.7.0) (2023-11-19)
+
+
+### Features
+
+* update dependecies for th latest features and bug fixes ([acffc4d](https://github.com/CoCreate-app/CoCreate-search/commit/acffc4da0239fa608bdd777cdc2d4078d0319e1e))
+
 ## [1.6.5](https://github.com/CoCreate-app/CoCreate-search/compare/v1.6.4...v1.6.5) (2023-11-12)
 
 
