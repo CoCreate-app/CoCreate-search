@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.8.0...v1.9.0) (2023-11-25)
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([8aa6e0d](https://github.com/CoCreate-app/CoCreate-search/commit/8aa6e0d1efdd739f1838dca98b76ebb75cfceaee))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.7.0...v1.8.0) (2023-11-25)
 
 
