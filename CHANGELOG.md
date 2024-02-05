@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/CoCreate-app/CoCreate-search/compare/v1.9.0...v1.9.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([d04f52b](https://github.com/CoCreate-app/CoCreate-search/commit/d04f52b37662aa7233f1cd58e0f19216362102cd))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-search/compare/v1.8.0...v1.9.0) (2023-11-25)
 
 
